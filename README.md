@@ -1,2 +1,24 @@
-# simple-login-ui
-Simple Vue.js UI for performing some of the functions of the user management API in the simple-login-api repository
+# simplelogin_vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
